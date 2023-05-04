@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tanas-portfolio/static/css/main.402499a3.css",
+    "main.js": "/tanas-portfolio/static/js/main.cd525358.js",
+    "static/js/787.ada813f0.chunk.js": "/tanas-portfolio/static/js/787.ada813f0.chunk.js",
+    "index.html": "/tanas-portfolio/index.html",
+    "main.402499a3.css.map": "/tanas-portfolio/static/css/main.402499a3.css.map",
+    "main.cd525358.js.map": "/tanas-portfolio/static/js/main.cd525358.js.map",
+    "787.ada813f0.chunk.js.map": "/tanas-portfolio/static/js/787.ada813f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402499a3.css",
+    "static/js/main.cd525358.js"
+  ]
+}
