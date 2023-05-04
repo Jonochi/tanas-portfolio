@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-color: #DEDBD2;
+  background-color: #f0dfdb;
   min-height: 100vh;
   display: flex;
   flex-direction: column;font-size: calc(10px + 2vmin);
@@ -13,4 +13,9 @@
 h1 {
   margin: 0;
   padding: 0;
+}
+
+a,
+a:visited {
+  color: #7F7B82;
 }

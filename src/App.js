@@ -27,7 +27,7 @@ function App() {
       <header className="App-header">
         <div>
           <Sidebar />
-          <Header />
+          <Header pages={pages} setCurrentPage={setCurrentPage} currentPage={currentPage}/>
           <div>
             <Page currentPage = {currentPage}></Page>
           </div>

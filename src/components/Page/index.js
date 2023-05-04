@@ -17,7 +17,6 @@ function Page({ currentPage }) {
     }
         return (
             <div>
-                <h2>{currentPage.name}</h2>
                 <div>{renderPage()}</div>
             </div>
         );
