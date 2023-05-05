@@ -3,14 +3,14 @@
 }
 
 .App-header {
-  background-color: #f0dfdb;
+  background-color: #e6e1e4;
   min-height: 100vh;
   display: flex;
   flex-direction: column;font-size: calc(10px + 2vmin);
-  color: white;
+  color: #7F7B82;
 }
 
-h1 {
+h1, h2, h3, p {
   margin: 0;
   padding: 0;
 }
@@ -18,4 +18,8 @@ h1 {
 a,
 a:visited {
   color: #7F7B82;
+}
+
+.font-link {
+  font-family: 'Raleway', sans-serif;
 }
