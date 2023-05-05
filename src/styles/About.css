@@ -1,0 +1,22 @@
+.about {
+    margin-top: 35px;
+}
+
+.about-content {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.about img {
+    max-width: 400px;
+    border-radius: 20px;
+    margin-right: 25px;
+    margin-bottom: 16px;
+}
+
+.about p {
+    max-width: 70%;
+}

@@ -8,9 +8,9 @@ const Footer = () => {
         <div className='footer'>
             <div className='footer-section footer-section-small'>
                 <ul>
-                    <a href='#'>github</a>
-                    <a href='#'>twitter</a>
-                    <a href='#'>linkedin</a>
+                    <a href="https://www.github.com/Jonochi" target='_blank' rel='noreferrer'>github</a>
+                    <a href="https://twitter.com/_tanacity" target='_blank' rel='noreferrer'>twitter</a>
+                    <a href='https://www.linkedin.com/in/tanajayne/' target='_blank' rel='noreferrer'>linkedin</a>
                 </ul>
             </div>
             <div className='footer-section footer-section-large'>

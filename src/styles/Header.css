@@ -19,9 +19,16 @@ nav a {
     padding-left: 6px;
 }
 
+nav a:hover {
+    color: #514f4f;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #e6e1e4;
+}
+
 nav a::after {
     content: " |";
     color: #e6e1e4;
+    
 }
 
 nav a:last-child::after {
@@ -30,14 +37,16 @@ nav a:last-child::after {
 
 .nav-link.active {
     color: #514f4f;
-  }
+    padding-bottom: 10px;
+    border-bottom: 3px solid #e6e1e4;
+}
 
-  ul {
+ul {
     padding: 0;
     margin: 0;
-  }
+}
 
-  /* .logo-container {
+/* .logo-container {
     position: absolute;
     top: 0;
     left: 0;
@@ -48,7 +57,7 @@ nav a:last-child::after {
     position: absolute;
     max-width: 100%;
     height: auto;
-} 
+}
 
 .header-section {
     position: relative;
@@ -74,11 +83,11 @@ nav a:last-child::after {
     margin-bottom: 15px;
     min-width: fit-content;
 }
+
 h1 {
     color: #514f4f;
 }
+
 h2 {
     color: #7f7b82;
 }
-
-

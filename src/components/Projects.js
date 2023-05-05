@@ -5,8 +5,8 @@ import '../styles/Projects.css';
 function Projects() {
     return (
         <div className="projects">
-            <h3>Projects and stuff</h3>
-            <p>Um</p>
+            <h1>Projects</h1>
+            <p>Projects coming soon!</p>
 
         </div>
     );

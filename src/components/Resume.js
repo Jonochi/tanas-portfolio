@@ -5,8 +5,9 @@ import '../styles/Resume.css';
 function Resume() {
     return (
         
-        <div className="Resume">
-            <h3>Download my Resume here!</h3>
+        <div className="resume">
+            <h1>Download my Resume here!</h1>
+            <p>Coming Soon!</p>
 
         </div>
     );
