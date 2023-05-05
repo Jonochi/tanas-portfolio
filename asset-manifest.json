@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tanas-portfolio/static/css/main.7469261b.css",
+    "main.css": "/tanas-portfolio/static/css/main.dc5cf361.css",
     "main.js": "/tanas-portfolio/static/js/main.45567ed9.js",
     "static/js/787.ada813f0.chunk.js": "/tanas-portfolio/static/js/787.ada813f0.chunk.js",
     "static/media/tanaPhoto.jpeg": "/tanas-portfolio/static/media/tanaPhoto.32fba74f621d97f5e80c.jpeg",
     "static/media/logo.png": "/tanas-portfolio/static/media/logo.be4a2df43e92c5f37db5.png",
     "index.html": "/tanas-portfolio/index.html",
-    "main.7469261b.css.map": "/tanas-portfolio/static/css/main.7469261b.css.map",
+    "main.dc5cf361.css.map": "/tanas-portfolio/static/css/main.dc5cf361.css.map",
     "main.45567ed9.js.map": "/tanas-portfolio/static/js/main.45567ed9.js.map",
     "787.ada813f0.chunk.js.map": "/tanas-portfolio/static/js/787.ada813f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7469261b.css",
+    "static/css/main.dc5cf361.css",
     "static/js/main.45567ed9.js"
   ]
 }
