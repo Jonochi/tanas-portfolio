@@ -1,11 +1,9 @@
 .header {
     background-color: #E5D0CC;
-    height: 250px;
+    height: 150px;
     display: flex;
     justify-content: space-between;
 }
-
-
 
 nav {
     display: flex;
@@ -53,11 +51,11 @@ ul {
     padding: 10px; 
 } */
 
-.logo {
+/* .logo {
     position: absolute;
     max-width: 100%;
     height: auto;
-}
+} */
 
 .header-section {
     position: relative;
